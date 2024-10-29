@@ -6,6 +6,8 @@
 
 Welcome! I’m **LandsatLover**, a Geographic Information Systems (GIS) and Remote Sensing Technician, dedicated to **data processing**, **map creation**, and **visual storytelling through geospatial analysis**.
 
+[🌐 **Live Preview of my Portfolio**](https://landsatlover.github.io/myPortfolio/)
+
 ## 🌐 Project Overview
 
 This portfolio showcases my passion and expertise in:
